@@ -11,7 +11,7 @@ const data = {
   warriors: [
     { id: '001', name: 'Jaime', weight: 152, sibling: ['Sarah', 'Michael'] },
     { id: '002', name: 'Jorah', weight: 180, sibling: ['Justin', 'Anna'] },
-    { id: '003', name: 'Austin', weight: 175, sibling: ['Ralph'] },
+    { id: '003', name: 'Austin', weight: 175, sibling: ['Raphael'] },
   ],
 }
 
